@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Moksh Bhalodiya</h1>
+<h1 align="center">Moksh Bhalodiya</h1>
 <h3 align="center">Generative AI Engineer | RAG Systems • Agentic AI • LLM Applications</h3>
 
 <p align="center">
