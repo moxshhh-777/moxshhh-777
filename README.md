@@ -115,7 +115,7 @@ Production-style RAG chatbot answering queries from scraped college website data
   <img src="https://raw.githubusercontent.com/moxshhh-777/moxshhh-777/output/synthwave-snake.svg" alt="Contribution snake animation" />
 </p>
 
-> ⚠️ This one needs a one-time setup in your own repo — see the note below the file list.
+
 
 ---
 
