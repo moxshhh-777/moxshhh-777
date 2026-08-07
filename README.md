@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&width=700&lines=%3E+Building+RAG+pipelines+%26+AI+agents;%3E+LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;%3E+Turning+LLMs+into+production+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=C247FF&center=true&vCenter=true&width=700&lines=%3E+Building+RAG+pipelines+%26+AI+agents;%3E+LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;%3E+Turning+LLMs+into+production+systems" alt="Typing SVG" />
 </p>
 
 
