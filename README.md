@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&width=700&lines=%3E+Building+RAG+pipelines+%26+AI+agents;%3E+LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;%3E+Turning+LLMs+into+production+systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/moxshhh-777?label=Followers&style=for-the-badge&color=FF6EC7&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/moxshhh-777?label=Stars&style=for-the-badge&color=FFD319&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=moxshhh-777&style=for-the-badge&color=00EAFF&label=Profile+Views" />
-</p>
 
 ---
 
