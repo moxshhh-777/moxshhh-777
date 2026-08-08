@@ -32,10 +32,10 @@
 
 **Backend & APIs**
 
-![Python](https://img.shields.io/badge/Python-00EAFF?style=for-the-badge&logo=python&logoColor=170a2e)
-![FastAPI](https://img.shields.io/badge/FastAPI-00EAFF?style=for-the-badge&logo=fastapi&logoColor=170a2e)
-![Streamlit](https://img.shields.io/badge/Streamlit-00EAFF?style=for-the-badge&logo=streamlit&logoColor=170a2e)
-![Pydantic](https://img.shields.io/badge/Pydantic-00EAFF?style=for-the-badge&logo=pydantic&logoColor=170a2e)
+![Python](https://img.shields.io/badge/Python-007E91?style=for-the-badge&logo=python&logoColor=170a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-007E91?style=for-the-badge&logo=fastapi&logoColor=170a2e)
+![Streamlit](https://img.shields.io/badge/Streamlit-007E91?style=for-the-badge&logo=streamlit&logoColor=170a2e)
+![Pydantic](https://img.shields.io/badge/Pydantic-007E91?style=for-the-badge&logo=pydantic&logoColor=170a2e)
 
 **Frontend**
 
