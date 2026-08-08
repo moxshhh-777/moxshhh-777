@@ -23,12 +23,12 @@
 
 **Generative AI & LLM Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-FF6EC7?style=for-the-badge&logo=langchain&logoColor=000000)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6EC7?style=for-the-badge&logoColor=170a2e)
-![RAG](https://img.shields.io/badge/RAG-FF6EC7?style=for-the-badge&logoColor=170a2e)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6EC7?style=for-the-badge&logoColor=170a2e)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6EC7?style=for-the-badge&logo=huggingface&logoColor=170a2e)
-![Groq](https://img.shields.io/badge/Groq-FF6EC7?style=for-the-badge&logoColor=170a2e)
+![LangChain](https://img.shields.io/badge/LangChain-008F8C?style=for-the-badge&logo=langchain&logoColor=170a2e)
+![LangGraph](https://img.shields.io/badge/LangGraph-008F8C?style=for-the-badge&logoColor=170a2e)
+![RAG](https://img.shields.io/badge/RAG-008F8C?style=for-the-badge&logoColor=170a2e)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-008F8C?style=for-the-badge&logoColor=170a2e)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-008F8C?style=for-the-badge&logo=huggingface&logoColor=170a2e)
+![Groq](https://img.shields.io/badge/Groq-008F8C?style=for-the-badge&logoColor=170a2e)
 
 **Backend & APIs**
 
