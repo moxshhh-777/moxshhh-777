@@ -122,9 +122,9 @@ Production-style RAG chatbot answering queries from scraped college website data
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moksh-bhalodiya"><img src="https://img.shields.io/badge/LinkedIn-00EAFF?style=for-the-badge&logo=linkedin&logoColor=170a2e" /></a>
-  <a href="mailto:moxsh.777@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6EC7?style=for-the-badge&logo=gmail&logoColor=170a2e" /></a>
-  <a href="https://github.com/moxshhh-777"><img src="https://img.shields.io/badge/GitHub-FFD319?style=for-the-badge&logo=github&logoColor=170a2e" /></a>
+  <a href="https://www.linkedin.com/in/moksh-bhalodiya"><img src="https://img.shields.io/badge/LinkedIn-0D99D9?style=for-the-badge&logo=linkedin&logoColor=48E0B6" /></a>
+  <a href="mailto:moxsh.777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D9520D?style=for-the-badge&logo=gmail&logoColor=48E0B6" /></a>
+  <a href="https://github.com/moxshhh-777"><img src="https://img.shields.io/badge/GitHub-380075?style=for-the-badge&logo=github&logoColor=48E0B6" /></a>
 </p>
 
 <p align="center"><i>See you in the next commit ✨</i></p>
