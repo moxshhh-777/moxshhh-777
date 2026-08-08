@@ -45,16 +45,16 @@
 
 **Databases & Vector Stores**
 
-![FAISS](https://img.shields.io/badge/FAISS-B967FF?style=for-the-badge&logoColor=170a2e)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-B967FF?style=for-the-badge&logoColor=170a2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B967FF?style=for-the-badge&logo=postgresql&logoColor=170a2e)
-![Redis](https://img.shields.io/badge/Redis-B967FF?style=for-the-badge&logo=redis&logoColor=170a2e)
+![FAISS](https://img.shields.io/badge/FAISS-002891?style=for-the-badge&logoColor=170a2e)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-002891?style=for-the-badge&logoColor=170a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002891?style=for-the-badge&logo=postgresql&logoColor=170a2e)
+![Redis](https://img.shields.io/badge/Redis-002891?style=for-the-badge&logo=redis&logoColor=170a2e)
 
 **Tools & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-FF8A5B?style=for-the-badge&logo=docker&logoColor=170a2e)
-![Git](https://img.shields.io/badge/Git-FF8A5B?style=for-the-badge&logo=git&logoColor=170a2e)
-![GitHub](https://img.shields.io/badge/GitHub-FF8A5B?style=for-the-badge&logo=github&logoColor=170a2e)
+![Docker](https://img.shields.io/badge/Docker-420091?style=for-the-badge&logo=docker&logoColor=170a2e)
+![Git](https://img.shields.io/badge/Git-420091?style=for-the-badge&logo=git&logoColor=170a2e)
+![GitHub](https://img.shields.io/badge/GitHub-420091?style=for-the-badge&logo=github&logoColor=170a2e)
 
 ---
 
