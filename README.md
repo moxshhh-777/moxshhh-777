@@ -23,7 +23,7 @@
 
 **Generative AI & LLM Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-FF6EC7?style=for-the-badge&logo=langchain&logoColor=170a2e)
+![LangChain](https://img.shields.io/badge/LangChain-FF6EC7?style=for-the-badge&logo=langchain&logoColor=000000)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6EC7?style=for-the-badge&logoColor=170a2e)
 ![RAG](https://img.shields.io/badge/RAG-FF6EC7?style=for-the-badge&logoColor=170a2e)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6EC7?style=for-the-badge&logoColor=170a2e)
