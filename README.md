@@ -39,9 +39,9 @@
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-FFD319?style=for-the-badge&logo=next.js&logoColor=170a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFD319?style=for-the-badge&logo=typescript&logoColor=170a2e)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFD319?style=for-the-badge&logo=tailwind-css&logoColor=170a2e)
+![Next.js](https://img.shields.io/badge/Next.js-006E91?style=for-the-badge&logo=next.js&logoColor=170a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-006E91?style=for-the-badge&logo=typescript&logoColor=170a2e)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006E91?style=for-the-badge&logo=tailwind-css&logoColor=170a2e)
 
 **Databases & Vector Stores**
 
