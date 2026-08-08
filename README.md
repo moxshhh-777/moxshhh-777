@@ -32,29 +32,29 @@
 
 **Backend & APIs**
 
-![Python](https://img.shields.io/badge/Python-006E91?style=for-the-badge&logo=python&logoColor=170a2e)
-![FastAPI](https://img.shields.io/badge/FastAPI-006E91?style=for-the-badge&logo=fastapi&logoColor=170a2e)
-![Streamlit](https://img.shields.io/badge/Streamlit-006E91?style=for-the-badge&logo=streamlit&logoColor=170a2e)
-![Pydantic](https://img.shields.io/badge/Pydantic-006E91?style=for-the-badge&logo=pydantic&logoColor=170a2e)
+![Python](https://img.shields.io/badge/Python-006E91?style=for-the-badge&logo=python&logoColor=48E0B6)
+![FastAPI](https://img.shields.io/badge/FastAPI-006E91?style=for-the-badge&logo=fastapi&logoColor=48E0B6)
+![Streamlit](https://img.shields.io/badge/Streamlit-006E91?style=for-the-badge&logo=streamlit&logoColor=48E0B6)
+![Pydantic](https://img.shields.io/badge/Pydantic-006E91?style=for-the-badge&logo=pydantic&logoColor=48E0B6)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-004791?style=for-the-badge&logo=next.js&logoColor=170a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-004791?style=for-the-badge&logo=typescript&logoColor=170a2e)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-004791?style=for-the-badge&logo=tailwind-css&logoColor=170a2e)
+![Next.js](https://img.shields.io/badge/Next.js-004791?style=for-the-badge&logo=next.js&logoColor=48E0B6)
+![TypeScript](https://img.shields.io/badge/TypeScript-004791?style=for-the-badge&logo=typescript&logoColor=48E0B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-004791?style=for-the-badge&logo=tailwind-css&logoColor=48E0B6)
 
 **Databases & Vector Stores**
 
-![FAISS](https://img.shields.io/badge/FAISS-002891?style=for-the-badge&logoColor=170a2e)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-002891?style=for-the-badge&logoColor=170a2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002891?style=for-the-badge&logo=postgresql&logoColor=170a2e)
-![Redis](https://img.shields.io/badge/Redis-002891?style=for-the-badge&logo=redis&logoColor=170a2e)
+![FAISS](https://img.shields.io/badge/FAISS-002891?style=for-the-badge&logoColor=48E0B6)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-002891?style=for-the-badge&logoColor=48E0B6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002891?style=for-the-badge&logo=postgresql&logoColor=48E0B6)
+![Redis](https://img.shields.io/badge/Redis-002891?style=for-the-badge&logo=redis&logoColor=48E0B6)
 
 **Tools & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-420091?style=for-the-badge&logo=docker&logoColor=170a2e)
-![Git](https://img.shields.io/badge/Git-420091?style=for-the-badge&logo=git&logoColor=170a2e)
-![GitHub](https://img.shields.io/badge/GitHub-420091?style=for-the-badge&logo=github&logoColor=170a2e)
+![Docker](https://img.shields.io/badge/Docker-420091?style=for-the-badge&logo=docker&logoColor=48E0B6)
+![Git](https://img.shields.io/badge/Git-420091?style=for-the-badge&logo=git&logoColor=48E0B6)
+![GitHub](https://img.shields.io/badge/GitHub-420091?style=for-the-badge&logo=github&logoColor=48E0B6)
 
 ---
 
