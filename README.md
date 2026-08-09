@@ -98,22 +98,12 @@ Production-style RAG chatbot answering queries from scraped college website data
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moxshhh-777&show_icons=true&theme=synthwave&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxshhh-777&layout=compact&theme=synthwave&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxshhh-777&theme=synthwave&hide_border=true" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=moxshhh-777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C7D3F0&icon_color=8B8CF6" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxshhh-777&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C7D3F0" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxshhh-777&hide_border=true&background=0D1117&ring=5EEAD4&fire=8B8CF6&currStreakLabel=C7D3F0&sideLabels=C7D3F0&dates=6B7280" /> </p>
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moxshhh-777/moxshhh-777/output/synthwave-snake.svg" alt="Contribution snake animation" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/moxshhh-777/moxshhh-777/output/aurora-snake.svg" alt="Contribution snake animation" /> </p>
 
 
 
@@ -129,4 +119,4 @@ Production-style RAG chatbot answering queries from scraped college website data
 
 <p align="center"><i>See you in the next commit ✨</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170a2e,45:5b1a6e,75:c2298a,100:ff8a5b&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020207,35:14532d,65:0f766e,100:4c1d95&height=100&section=footer" width="100%" />
