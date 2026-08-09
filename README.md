@@ -98,7 +98,14 @@ Production-style RAG chatbot answering queries from scraped college website data
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=moxshhh-777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C7D3F0&icon_color=8B8CF6" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxshhh-777&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C7D3F0" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxshhh-777&hide_border=true&background=0D1117&ring=5EEAD4&fire=8B8CF6&currStreakLabel=C7D3F0&sideLabels=C7D3F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" /> </p>
+<p align="center">
+  <img height="165" src="assets/stats.svg" />
+  <img height="165" src="assets/top-langs.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxshhh-777&hide_border=true&background=0D1117&ring=5EEAD4&fire=8B8CF6&currStreakLabel=C7D3F0&sideLabels=C7D3F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+</p>
 
 ### 🐍 Contribution Snake
 
