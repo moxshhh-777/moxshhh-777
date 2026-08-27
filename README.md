@@ -43,7 +43,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-004791?style=for-the-badge&logo=typescript&logoColor=48E0B6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-004791?style=for-the-badge&logo=tailwind-css&logoColor=48E0B6)
 
-**Databases & Vector Stores**
+**Databases & Vector Stores** 
 
 ![FAISS](https://img.shields.io/badge/FAISS-002891?style=for-the-badge&logoColor=48E0B6)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-002891?style=for-the-badge&logoColor=48E0B6)
