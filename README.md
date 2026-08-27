@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 About Me
+### 👋 About ME
 
 - 🎓 BCA (Bachelor of Computer Applications), VNSGU — graduating 2026
 - 💼 Generative AI Engineer, working across GenAI, automation, and full-stack AI systems
