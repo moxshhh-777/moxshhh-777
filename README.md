@@ -8,7 +8,7 @@
  
 
 ---
-
+ 
 ### 👋 About ME
 
 - 🎓 BCA (Bachelor of Computer Applications), VNSGU — graduating 2026
